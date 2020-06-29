@@ -15,3 +15,5 @@ Desarrollar una version web del modelo matematico "Game of Life" de Jhon Conway
   * Agregar un botón para mostrar un popup con la lista de partidas guardadas por fecha y hora.
   * Crear una pagina de Contacto, con un formulario que permita ingresar nombre, mail y mensaje, y al enviar se abra la herramienta de envío de emails predeterminada del sistema operativo.
   * Validaciones del formulario de contacto (nombre alfanumérico, mail valido y mensaje con mas de 5 caracteres).
+  
+  try here https://fernandofrank.github.io/LPPA-PARCIAL2/.
